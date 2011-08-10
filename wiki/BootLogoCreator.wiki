@@ -3,6 +3,8 @@
 
 The Boot Logo Creator (BLC) is the module that handles all of the operations relating to boot logos. It will take a 24-bit BMP image (no flipping or other special edits required) and put it into the Team Black Hat (TBH) flashable boot logo zip. Optionally, it will push the created zip to your SD card
 
+== Module Status: *Complete* [statusLegend what's this?] == 
+
 == Tutorial: ==
  # Create a 24-bit BMP image with dimensions 480 X 182 (width X height) or open the provided Template.bmp in your favorite editor. When creating your boot logo, remember that whatever color the 1px border around the image is will be the color that fills in the rest of the screen.
  # Save your image as a 24-bit BMP image. 
