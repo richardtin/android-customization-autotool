@@ -1,5 +1,5 @@
 #labels Phase-Deploy
-#Automatic Flashable Boot Logo Creator
+#automatic flashable boot logo creator
 
 == Overview: ===
 
