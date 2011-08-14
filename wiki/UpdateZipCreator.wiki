@@ -1,7 +1,7 @@
 #summary A tool to automatically generate an update zip
 #labels Phase-Deploy
 
-Overview:
+*Overview:*
 
 The Update Zip Creator (UZC) is the module that handles all of the operations relating to creating and manipulating update zips. Simply drag and drop a folder containing a _/system_ and/or _/data_ folder in its root directory, and the tool will do the rest. If the _/META-INF_ folder doesn't exist, the tool automatically generates the update-script for you. However, if _/META-INF_ already exists, the tool won't overwrite it. 
 
