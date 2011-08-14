@@ -7,7 +7,7 @@ The Update Zip Creator (UZC) is the module that handles all of the operations re
 
 *EXPERIMENTAL:* In addition to the above capabilities, the tool also offers the ability to run a custom script that you supply before flashing the _/system_ and/or _/data_ updates to your phone. Although this has been tested using a simple echo script with no ill effects, the echo script had no visible effects. Please be careful when using this feature. 
 
-Module Status: Complete ([statusLegend Status Legend])
+*Module Status: Complete* ([statusLegend Status Legend])
 
 Tutorial:
 *Coming soon*
