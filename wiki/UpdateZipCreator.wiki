@@ -1,0 +1,13 @@
+#summary A tool to automatically generate an update zip
+#labels Phase-Deploy
+
+Overview:
+
+The Update Zip Creator (UZC) is the module that handles all of the operations relating to creating and manipulating update zips. Simply drag and drop a folder containing a _/system_ and/or _/data_ folder in its root directory, and the tool will do the rest. If the _/META-INF_ folder doesn't exist, the tool automatically generates the update-script for you. However, if _/META-INF_ already exists, the tool won't overwrite it. 
+
+*EXPERIMENTAL:* In addition to the above capabilities, the tool also offers the ability to run a custom script that you supply before flashing the _/system_ and/or _/data_ updates to your phone. Although this has been tested using a simple echo script with no ill effects, the echo script had no visible effects. Please be careful when using this feature. 
+
+Module Status: Complete ([statusLegend Status Legend])
+
+Tutorial:
+*Coming soon*
