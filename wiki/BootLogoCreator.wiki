@@ -9,5 +9,5 @@ The Boot Logo Creator (BLC) is the module that handles all of the operations rel
 == Tutorial: ==
  # Create a 24-bit BMP image with dimensions 480 X 182 (width X height) or open the provided Template.bmp in your favorite editor. When creating your boot logo, remember that whatever color the 1px border around the image is will be the color that fills in the rest of the screen.
  # Save your image as a 24-bit BMP image. 
- # For Windows users, and others that can run .exes, double click on BootImgToFlashZip.exe and follow the instructions on the screen. 
+ # For Windows users, and others that can run .exes, double click on `*`BootImgToFlashZip.exe and follow the instructions on the screen. 
    * For those who cannot run .exes, open up a terminal window and type 'python BootImgToFlashZip.pyc'. Note that you will need the [http://www.pythonware.com/products/pil/PIL Python Image Library] for Python 2.7. Additionally, you'll need to install [http://www.python.org/ Python 2.7] and add it to your PATH (the Windows installer does this automatically).  
