@@ -23,7 +23,7 @@ A folder is considered correctly structured if it has a /system folder and/or /d
 * Tutorial (Linux): [at this time must download UpdateZipCreator.pyc from source]* 
  # Extract the files from the download somewhere
  # cd into the extracted directory using a terminal window
- # type 'python UpdateZipCreator.pyc' 
+ # type 'python !UpdateZipCreator.pyc' 
  # Drag a folder that is correctly structured (see above) into the command-line window 
  # Follow the on screen instructions
  # Copy the completed zip to your SD card and flash in Clockwork recovery
