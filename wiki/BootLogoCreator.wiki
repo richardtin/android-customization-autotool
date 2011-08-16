@@ -27,4 +27,4 @@ http://android-customization-autotool.googlecode.com/svn/trunk/docs/BootLogoCrea
 
 * The completed program output. Boot Logo Zip is now on my SD card *
 
-http://android-customization-autotool.googlecode.com/svn/trunk/docs/BootLogoCreatorWalkthrough/2.png
+http://android-customization-autotool.googlecode.com/svn/trunk/docs/BootLogoCreatorWalkthrough/4.png
