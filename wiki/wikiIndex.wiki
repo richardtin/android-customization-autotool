@@ -13,3 +13,6 @@
  # [UpdateZipCreator Update Zip Generator]
  # [AdbTools ADB Tools]
  # [ApkTools APK Tools]
+
+==== Misc. ====
+[http://code.google.com/p/android-customization-autotool/issues/entry Report a Bug]
