@@ -14,4 +14,17 @@ The Boot Logo Creator (BLC) is the module that handles all of the operations rel
 
 == Images to Accompany Tutorial: ==
 * Initial Out-of-the-Box View *
-http://code.google.com/p/android-customization-autotool/source/browse/trunk/docs/BootLogoCreatorWalkthrough/1.png
+
+http://android-customization-autotool.googlecode.com/svn/trunk/docs/BootLogoCreatorWalkthrough/1.png
+
+* Saving the logo in Photoshop (notice how it isn't flipped) *
+
+http://android-customization-autotool.googlecode.com/svn/trunk/docs/BootLogoCreatorWalkthrough/2.png
+
+* Dragging the file into the program window *
+
+http://android-customization-autotool.googlecode.com/svn/trunk/docs/BootLogoCreatorWalkthrough/3.png
+
+* The completed program output. Boot Logo Zip is now on my SD card *
+
+http://android-customization-autotool.googlecode.com/svn/trunk/docs/BootLogoCreatorWalkthrough/2.png
