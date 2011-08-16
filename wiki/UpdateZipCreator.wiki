@@ -10,6 +10,7 @@ The Update Zip Creator (UZC) is the module that handles all of the operations re
 *Module Status: Complete* ([statusLegend Status Legend])
 
 * What it means to be "correctly structured": *
+
 A folder is considered correctly structured if it has a /system folder and/or /data folder in its root directory. For example, if you have a folder called update and update has two folders inside of it named system and data, then you have a correctly structured folder. The same would be true if you had either system or data (only one of the folders)
 
 * Tutorial (Windows): * 
