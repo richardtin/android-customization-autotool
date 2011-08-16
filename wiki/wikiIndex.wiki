@@ -16,3 +16,4 @@
 
 ==== Misc. ====
 [http://code.google.com/p/android-customization-autotool/issues/entry Report a Bug]
+[http://code.google.com/p/android-customization-autotool/issues/entry?template=Feature%20Request Request a New Feature]
