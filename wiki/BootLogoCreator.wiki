@@ -1,4 +1,6 @@
+#summary A tool to automatically generate a flashable .zip from a 24-bit BMP file
 #labels Phase-Deploy
+
 == Overview: ===
 
 The Boot Logo Creator (BLC) is the module that handles all of the operations relating to boot logos. It will take a 24-bit BMP image (no flipping or other special edits required) and put it into the Team Black Hat (TBH) flashable boot logo zip. Optionally, it will push the created zip to your SD card
