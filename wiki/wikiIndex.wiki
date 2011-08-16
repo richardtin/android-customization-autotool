@@ -1,13 +1,15 @@
 #summary Android Customization Autotool Wiki Index
+#labels Featured
 
-= Introduction =
+= Downloads: =
+ # [http://code.google.com/p/android-customization-autotool/downloads/detail?name=AutoUpdateCreatorV1.0.zip&can=2&q= Automatic Update Zip Creator]
+ # [http://code.google.com/p/android-customization-autotool/downloads/detail?name=AutoBootLogoCreatorV1.1.zip&can=2&q= Automatic Boot Logo Creator]
 
-Add your content here.
+= Documentation: =
+== Main Project: ==
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Modules (Tutorials included inside): ==
+ # [BootLogoCreator Boot Logo Creator]
+ # [UpdateZipCreator Update Zip Generator]
+ # [AdbTools ADB Tools]
+ # [ApkTools APK Tools]
