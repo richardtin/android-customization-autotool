@@ -20,10 +20,13 @@ A folder is considered correctly structured if it has a /system folder and/or /d
  # Follow the on screen instructions
  # Copy the completed zip to your SD card and flash in Clockwork recovery
 
-* Tutorial (Linux): [at this time must download UpdateZipCreator.pyc from source]* 
+* Tutorial (Linux): _If I get enough interest, I'll fix this module to play nicer with Linux_* 
  # Extract the files from the download somewhere
  # cd into the extracted directory using a terminal window
- # type 'python !UpdateZipCreator.pyc' 
+ # Download the [http://code.google.com/p/android-customization-autotool/source/browse/#svn%2Ftrunk%2Fsrc%2Fstandalones%2FUpdateZipWizard two Python files] that make up the tool and place them in the extracted folder
+ # Make sure you have 7zip installed (p7zip-full package on Ubuntu)
+    * If you can't find it, try 'aptitude search 7zip' and then install that package. Make sure typing 7za at the command line does something. 
+ # type 'python !UpdateZipCreator.py' 
  # Drag a folder that is correctly structured (see above) into the command-line window 
  # Follow the on screen instructions
  # Copy the completed zip to your SD card and flash in Clockwork recovery
